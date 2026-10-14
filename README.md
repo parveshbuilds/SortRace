@@ -33,3 +33,14 @@ Built to understand sorting algorithms, compare their behavior, and visualize ho
 
 ## Author
 Parvesh Bandhu
+
+## Screenshots
+
+### Main Dashboard
+![SortRace Dashboard](screenshots/dashboard.png%20%282%29.png)
+
+### Algorithm Comparison Arena
+![Comparison Arena](screenshots/comparison.png.png)
+
+### Live Sorting Animation
+![Live Sorting Animation](screenshots/animation.png.png)
